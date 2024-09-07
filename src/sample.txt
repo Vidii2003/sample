@@ -1,0 +1,3 @@
+ample (main)
+$ code -
+Reading from stdin via: C:\User

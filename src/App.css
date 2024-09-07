@@ -1,0 +1,54 @@
+.App {
+  
+}
+
+.App-logo {
+  height: 100px;
+  display: right;
+
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.navbar{
+  margin-top: 66px;
+  margin-left: 80px;
+  padding: 0px;
+  display: flex;
+}
+.navbar a{
+  font-size: 14px;
+  display: block;
+  text-decoration: none;
+  font-weight: 400;
+  color: maroon;
+  gap: 40px;
+  margin-right: 40px;
+}
+.navbar a:hover{
+  color:blue;
+}
+.navbar a.active{
+  color: deeppink;
+  text-decoration: underline;
+}

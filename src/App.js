@@ -8,10 +8,10 @@ function App() {
         <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <nav>
-          <a>Home</a>
-          <a>About</a>
-          <a>Contact</a>
-          <a>Shop</a>
+          <a>Home111111</a>
+          <a>About111111111111</a>
+          <a>Contact11111111111</a>
+          <a>Shop11111111111111</a>
         </nav>
         <div className="search-bar">
           <input type="text" placeholder="Search products..." />
